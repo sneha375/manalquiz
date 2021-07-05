@@ -1,1 +1,1 @@
-# manalquiz
+# myquizgame
